@@ -8,5 +8,6 @@ Steps while running the application
 
 Export whatsapp chat on to local drive
 Upload the chat
+![alt text](http://url/to/image/1.png)
 Select the user to gain intensive chat analysis
 Select user to gain movie recommendation depening on the chat sentiments of the user
