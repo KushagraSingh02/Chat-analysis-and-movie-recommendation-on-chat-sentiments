@@ -4,9 +4,13 @@ The application provides opportunity for the user to analyse the chat details at
 Link for the datasets : https://drive.google.com/drive/folders/16db_GISxY1vnmGDPwJzg-mkxJ16-b9K4?usp=sharing
 
 Streamlit was used to develop the frontend
+
 nltk vader library is used for sentiment prediction
+
 Content based filtering is used for movie recommendation
+
 movies api is used to fetch posters of recommended movies
+
 Steps while running the application 
 
 Export whatsapp chat on to local drive
